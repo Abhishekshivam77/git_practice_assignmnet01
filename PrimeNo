@@ -6,7 +6,7 @@ count++;
 }
 }
 if(count==2){
-console.log(Prime No)
+console.log("Prime No");
 } else{
-console.log(not a Prime No)
+console.log("not a Prime No");
 }
